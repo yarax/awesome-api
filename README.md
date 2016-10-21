@@ -69,6 +69,7 @@
 * [OData](http://www.odata.org/) - Open protocol to allow the creation and consumption of queryable and interoperable RESTful APIs. Quite complex.
 * [RAML](http://raml.org/) - Simple and succinct way to describe RESTful API.
 * [Schema.org](http://schema.org) - Collection of schemas describing common data models.
+* [Swagger to GraphQL]
 
 ## Discover
 
@@ -130,6 +131,7 @@
 * [RAML, RESTful API Modeling Language](http://raml.org).
 * [Runscope](https://www.runscope.com/) - Automated API Monitoring & Testing.
 * [swagger.io](http://swagger.io).
+* [Swagger to GraphQL](https://github.com/yarax/swagger-to-graphql)  Auto adapter of Swagger schemas to GraphQL types
 
 ## Libraries
 
